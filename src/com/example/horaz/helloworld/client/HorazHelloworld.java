@@ -2,10 +2,10 @@ package com.example.horaz.helloworld.client;
 
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.user.client.Event;
-import com.jjoe64.gwtmobile_test.client.horaz.widgets.Button;
-import com.jjoe64.gwtmobile_test.client.horaz.widgets.Toast;
-import com.jjoe64.gwtmobile_test.client.horaz.widgets.Toast.Duration;
-import com.jjoe64.gwtmobile_test.client.horaz.widgets.events.TapListener;
+import com.horaz.client.widgets.Button;
+import com.horaz.client.widgets.Toast;
+import com.horaz.client.widgets.Toast.Duration;
+import com.horaz.client.widgets.events.TapListener;
 
 public class HorazHelloworld implements EntryPoint {
 	@Override
